@@ -1,3 +1,5 @@
+%% This createsa an acceptable header for MOLA compliant parts
+
 bookTitleMarkup = \markup {
   \override #'(baseline-skip . 3.5)
   \column {
