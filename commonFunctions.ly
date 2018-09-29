@@ -45,10 +45,6 @@ expressive = \markup { \italic "expressive" }
 
 xNote = \once \override NoteHead.style = #'cross
 
-maracaHit = \markup { \column  { 
-              \line \small \italic {strike head of low}
-               \line \small \italic {timbale with maraca}      } }
-
 senzaVib = \markup { \italic "senza vibrato" }
 
 moltoExp = \markup { \italic "molto expressivo" }
